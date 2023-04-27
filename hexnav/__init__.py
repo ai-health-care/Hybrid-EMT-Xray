@@ -1,0 +1,1 @@
+from .hexnav import main  # noqa
